@@ -1,2 +1,2 @@
 # CEH
-Various scripts related to Certified Ethical Hacking
+Various scripts related to ethical hacking.
